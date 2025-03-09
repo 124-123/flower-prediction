@@ -26,7 +26,7 @@ The following Python libraries are used in this project:
 
 1. **Clone this Repository:**
    ```bash
-   git clone https://github.com/sanketjadhav09/flower-prediction.git
+   git clone https://github.com/124-123/flower-prediction.git
    cd flower-prediction
    ```
 
